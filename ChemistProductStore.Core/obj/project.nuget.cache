@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y40mzNmLTsZYbQ0sn2vJe6RfoKvLwPFIVJ5pauXzKSGEVMer5tAU5WDT9PLWaOCVBfnJNfjGV0gzAVNjWF54gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chari\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\chari\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\chari\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

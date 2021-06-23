@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain.Tests\\ChemistProductStore.Domain.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj",
+        "projectName": "ChemistProductStore.Core",
+        "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj",
+        "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain.Tests\\ChemistProductStore.Domain.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain.Tests\\ChemistProductStore.Domain.Tests.csproj",
+        "projectName": "ChemistProductStore.Domain.Tests",
+        "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain.Tests\\ChemistProductStore.Domain.Tests.csproj",
+        "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj": {
+                "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj"
+              },
+              "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\ChemistProductStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\ChemistProductStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\ChemistProductStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\ChemistProductStore.Domain.csproj",
+        "projectName": "ChemistProductStore.Domain",
+        "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\ChemistProductStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj": {
+                "projectPath": "C:\\Users\\chari\\source\\repos\\ChemistWarehouse\\ChemistProductStore.Core\\ChemistProductStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

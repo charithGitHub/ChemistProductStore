@@ -1,0 +1,12 @@
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.csproj.AssemblyReference.cache
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.AssemblyInfoInputs.cache
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.AssemblyInfo.cs
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\bin\Debug\net5.0\ChemistProductStore.Core.deps.json
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\bin\Debug\net5.0\ChemistProductStore.Core.dll
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\bin\Debug\net5.0\ref\ChemistProductStore.Core.dll
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\bin\Debug\net5.0\ChemistProductStore.Core.pdb
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.dll
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ref\ChemistProductStore.Core.dll
+C:\Users\chari\source\repos\ChemistProductStore\ChemistProductStore.Core\obj\Debug\net5.0\ChemistProductStore.Core.pdb
